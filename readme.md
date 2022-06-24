@@ -17,7 +17,7 @@ no need
 
 ## Usage  
 
-notes are saved by clicking on the save button located at the righ upper corener. a saved note can ba accessed by cliking it in the left list. A note can also be deleted by clicking on the trash icon next to each saved note. the text input field are activated by clicking on the add button located next to the save button.  
+Notes are saved by clicking on the save button located at the righ upper corner. A saved note can ba accessed by cliking it in the left list. A note can also be deleted by clicking on the trash icon next to each saved note. The text input fields are activated by clicking on the add button located next to the save button.  
 
 ## Questions  
 
